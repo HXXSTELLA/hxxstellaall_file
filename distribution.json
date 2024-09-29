@@ -13,7 +13,7 @@
       "description": "HOBAEKTOWN",
       "icon": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "hxxstella.co.kr",
+      "address": "1ch.hxxstella.co.kr:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 343899,
+            "url": "https://raw.githubusercontent.com/HXXSTELLA/hxxstellaall_file/main/servers/hxxstellall-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.2.0.jar",
+            "MD5": "69ec9d55a7a980bc1159cc33e246d581"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.91.0+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -190,8 +200,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 16022,
+            "size": 16020,
             "url": "https://raw.githubusercontent.com/HXXSTELLA/hxxstellaall_file/main/servers/hxxstellall-1.20.1/files/servers.dat",
+            "MD5": "8734f9d054a331ddeccaa81b71b75d28",
             "path": "servers.dat"
           }
         },

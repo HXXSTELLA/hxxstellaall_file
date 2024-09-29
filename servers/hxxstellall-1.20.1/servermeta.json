@@ -5,7 +5,7 @@
     "name": "호백타운 스트리머서버",
     "description": "HOBAEKTOWN",
     "icon": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/server-icon.png",
-    "address": "hxxstella.co.kr",
+    "address": "1ch.hxxstella.co.kr:25566",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -20,7 +20,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "servers.dat", "resourcepacks/*.zip", "shaderpacks/*.zip", "shaderpacks/*.txt"]
+      "patterns": ["options.txt", "resourcepacks/*.zip", "shaderpacks/*.zip", "shaderpacks/*.txt"]
     }
   ]
 }
