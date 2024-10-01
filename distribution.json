@@ -13,7 +13,7 @@
       "description": "HOBAEKTOWN",
       "icon": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "1ch.hxxstella.co.kr:25566",
+      "address": "hxxstella.co.kr:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -200,9 +200,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 16020,
+            "size": 16034,
             "url": "https://raw.githubusercontent.com/HXXSTELLA/hxxstellaall_file/main/servers/hxxstellall-1.20.1/files/servers.dat",
-            "MD5": "8734f9d054a331ddeccaa81b71b75d28",
+            "MD5": "da21f4f06c7540113782f600b91b47a0",
             "path": "servers.dat"
           }
         },
