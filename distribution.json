@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1369712,
             "MD5": "eef03e478210de8a4811e0e95eb263f6",
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/net/fabricmc/fabric-loader/0.16.5/fabric-loader-0.16.5.jar"
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.5/fabric-loader-0.16.5.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "31bd285e2234e421990bcefe8b63fde2",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/versions/1.20.1-fabric-0.16.5/1.20.1-fabric-0.16.5.json"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/versions/1.20.1-fabric-0.16.5/1.20.1-fabric-0.16.5.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1494835,
                 "MD5": "a33725dd52de94c33514b6867c8d0b4b",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 343899,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.2.0.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.2.0.jar",
             "MD5": "69ec9d55a7a980bc1159cc33e246d581"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2060204,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/fabric-api-0.91.01.20.1.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/fabric-api-0.91.01.20.1.jar",
             "MD5": "f1d40110a047d4e66b2e96b7c86d11f9"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2419351,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.11.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.11.jar",
             "MD5": "8f7d331dae17ab26d6b50886bf7078f1"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7270799,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/journeymap-1.20.1-5.9.18-fabric.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/journeymap-1.20.1-5.9.18-fabric.jar",
             "MD5": "7d13ed3d2e5137be5e6f3eed73f777b6"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11375312,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.0.10.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.0.10.jar",
             "MD5": "0732e196a467cbaae908f21c1b7815c2"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 852373,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
             "MD5": "11db63c388786f3bfdb9e60c9c0a25c1"
           }
         },
@@ -181,7 +181,7 @@
           "type": "File",
           "artifact": {
             "size": 1898,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/files/options.txt",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -191,7 +191,7 @@
           "type": "File",
           "artifact": {
             "size": 1089824,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/files/resourcepacks/CustomSoundPack%20(2).zip",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/files/resourcepacks/CustomSoundPack%20(2).zip",
             "path": "resourcepacks/CustomSoundPack (2).zip"
           }
         },
@@ -201,7 +201,7 @@
           "type": "File",
           "artifact": {
             "size": 16034,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/files/servers.dat",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
         },
@@ -211,7 +211,7 @@
           "type": "File",
           "artifact": {
             "size": 409957,
-            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/servers/hxxstellall-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "url": "https://github.com/HXXSTELLA/hxxstellaall_file/raw/main/servers/hxxstellall-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
           }
         }
